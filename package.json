@@ -1,0 +1,23 @@
+{
+  "name": "estudo-electron",
+  "version": "1.0.0",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LucasMSCaetano/estudo-electron.git"
+  },
+  "author": "Lucas Caetano",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/LucasMSCaetano/estudo-electron/issues"
+  },
+  "homepage": "https://github.com/LucasMSCaetano/estudo-electron#readme",
+  "description": "",
+  "devDependencies": {
+    "electron": "^38.0.0"
+  }
+}
